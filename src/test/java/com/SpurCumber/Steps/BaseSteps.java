@@ -4,7 +4,6 @@ import com.SpurCumber.Utils.WiniumUtil;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
-
 import java.io.IOException;
 
 public class BaseSteps extends TestContext {
